@@ -1,0 +1,22 @@
+{
+  "name": "vscode-orange-rain-light-theme",
+  "displayName": "Orange Rain Light",
+  "description": "A colorful orange light theme for VS Code inspired by IntelliJ Orange Rain Light.",
+  "version": "1.0.0",
+  "publisher": "openmindculture",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orange Rain Light",
+        "uiTheme": "vs",
+        "path": "themes/orange-rain-light-color-theme.json"
+      }
+    ]
+  }
+}
