@@ -2,8 +2,10 @@
   "name": "vscode-orange-peach-light-theme",
   "displayName": "Orange Peach Light",
   "description": "A colorful orange light theme for VS Code inspired by IntelliJ Orange Rain Light.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "openmindculture",
+  "homepage": "https://www.ingo-steinke.de/",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
