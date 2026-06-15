@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Orange Rain Light",
+  "name": "Orange Peach Light",
   "type": "light",
   "colors": {
     "editor.background": "#F9F5D5",
@@ -17,12 +17,11 @@
     "editor.findMatchBackground": "#FD964933",
     "editor.findRangeHighlightBackground": "#F294631A",
     "editor.hoverHighlightBackground": "#3581FF22",
-    "editorIndentGuide.background": "#E3CA9877",
-    "editorIndentGuide.activeBackground": "#A9542477",
+    "editorIndentGuide.background1": "#E3CA9877",
+    "editorIndentGuide.activeBackground1": "#A9542477",
     "editorBracketMatch.border": "#49BEFF",
     "editorBracketMatch.background": "#F7DEB650",
     "editorWhitespace.foreground": "#E3CA98",
-    "editorLineHighlight.background": "#FFE8B72B",
     "editorLink.activeForeground": "#3581FF",
     "editorWidget.background": "#FFE8B7",
     "editorWidget.border": "#49BEFF",
@@ -80,7 +79,7 @@
     "errorForeground": "#F38300",
     "editorError.foreground": "#F38300",
     "editorWarning.foreground": "#E49D41",
-    "editorInfo.foreground": "#49BEFF"
+    "editorInfo.foreground": "#0DA0DF"
   },
   "tokenColors": [
     {
@@ -157,7 +156,7 @@
         "storage.type.class"
       ],
       "settings": {
-        "foreground": "#49BEFF"
+        "foreground": "#0DA0DF"
       }
     },
     {
@@ -168,7 +167,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#FD9649"
+        "foreground": "#A35B24"
       }
     },
     {

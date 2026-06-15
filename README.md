@@ -1,4 +1,4 @@
-# Orange Rain Light Theme
+# Orange Peach Light Theme
 
 A colorful orange light theme for VS Code and VS Codium inspired by IntelliJ Orange Rain Light.
 
@@ -11,12 +11,12 @@ A colorful orange light theme for VS Code and VS Codium inspired by IntelliJ Ora
 ## Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`).
-2. Search for `Orange Rain Light`.
+2. Search for `Orange Peach Light`.
 3. Click **Install**.
 4. Select it via `Preferences: Color Theme`.
 
 Local installation: 
-`codium --install-extension vscode-orange-rain-light-theme-1.0.0.vsix`
+`codium --install-extension vscode-orange-peach-light-theme-1.0.0.vsix`
 
 ## License
 

@@ -1,6 +1,6 @@
 {
-  "name": "vscode-orange-rain-light-theme",
-  "displayName": "Orange Rain Light",
+  "name": "vscode-orange-peach-light-theme",
+  "displayName": "Orange Peach Light",
   "description": "A colorful orange light theme for VS Code inspired by IntelliJ Orange Rain Light.",
   "version": "1.0.0",
   "publisher": "openmindculture",
@@ -13,14 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Orange Rain Light",
+        "label": "Orange Peach Light",
         "uiTheme": "vs",
-        "path": "./orange-rain-light-color-theme.json"
+        "path": "./orange-peach-light-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openmindculture/vscode-orange-rain-light-theme.git"
+    "url": "https://github.com/openmindculture/vscode-orange-peach-light-theme.git"
   }
 }
