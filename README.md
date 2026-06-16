@@ -1,6 +1,6 @@
 # Orange Peach Light Theme
 
-A colorful orange light theme for VS Code and VS Codium inspired by [Orange Rain Light for IntelliJ editors](https://github.com/openmindculture/intellij-orange-rain-light-theme), published by Microsoft in the Visual Studio Marketplace at https://marketplace.visualstudio.com/items?itemName=openmindculture.vscode-orange-peach-light-theme .
+A colorful orange light theme for VS Code and VS Codium inspired by [Orange Rain Light for IntelliJ editors](https://github.com/openmindculture/intellij-orange-rain-light-theme), published by Microsoft in the Visual Studio Marketplace at https://marketplace.visualstudio.com/items?itemName=openmindculture.vscode-orange-peach-light-theme and also available in the independent Open VSX repository at https://open-vsx.org/extension/openmindculture/vscode-orange-peach-light-theme .
 
 ## Features
 
